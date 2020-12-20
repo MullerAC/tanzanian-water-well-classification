@@ -1,2 +1,15 @@
-# tanzanian-water-well-classification
-Using water well data from the Tanzanian Ministry of Water to predict water wells in need of repair
+# Tanzanian Water Well Classification
+
+## Business Case
+
+## Exploratory Data Analysis
+
+## Baseline Models
+
+## Iterative Modeling Process
+
+## Final Models
+
+## Conclusions
+
+## Future Work
