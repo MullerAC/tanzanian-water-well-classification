@@ -61,7 +61,9 @@ XGBoost performed the best of any model, although it only barely beat out the Ra
 
 A highest accuracy of 81.50% ends up at a rank of 1303 of 10458.
 
-## Future Work
+Random Forests has less false positives than XGBoost, and so is likely better in real life situations.
+
+## Future Improvements
 
 When cleaning the data, the scaling and imputing was done before the train test split. This would be intended for the submission models, but caused data leakage in the testing phases, and may have lead to some sub-optimal parameters used. This could be fixed.
 
